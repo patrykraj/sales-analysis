@@ -57,7 +57,7 @@ The dataset contains **541,909 transactional records** with the following attrib
 3. Open Jupyter Notebook:
    jupyter notebook
 
-4. Run notebook: rfm_analysis.ipynb
+4. Run notebook: sales-analysis.ipynb
 
 ## Database Setup
 
