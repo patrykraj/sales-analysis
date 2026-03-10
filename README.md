@@ -44,6 +44,8 @@ The dataset contains **541,909 transactional records** with the following attrib
 │   ├── create_clean_view.sql  
 ├── notebook/  
 │   └── sales-analysis.ipynb  
+├── excel/  
+│   └── sales-analysis.xlsx  
 └── README.md  
 
 ## How to Run
