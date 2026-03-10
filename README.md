@@ -36,6 +36,7 @@ The dataset contains **541,909 transactional records** with the following attrib
 - Python (Pandas, NumPy, Matplotlib)
 - SQL (PostgreSQL)
 - Jupyter Notebook
+- MS Excel
 
 ## Project Structure
 
